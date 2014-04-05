@@ -1,0 +1,7630 @@
+Starting
+vertex shader test.vert:
+InfoLog: Vertex shader was successfully compiled to run on hardware.
+
+
+
+fragment shader test.frag:
+InfoLog: Fragment shader was successfully compiled to run on hardware.
+
+
+
+vertex shader depth.vert:
+InfoLog: Vertex shader was successfully compiled to run on hardware.
+
+
+
+fragment shader depth.frag:
+InfoLog: Fragment shader was successfully compiled to run on hardware.
+
+
+
+could not bind uniform lightnum
+mapShadows() 27ms
+matrix&sky 553ms
+drawGeometry() 719ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 9ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 8ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 7ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 7ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 4ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 15ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 8ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 2ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 7ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 11ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 8ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 10ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 7ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 6ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 2ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 8ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 2ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 9ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 5ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 8ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 7ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 7ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 2ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 2ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 2ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 10ms
+matrix&sky 1ms
+drawGeometry() 4ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 9ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 9ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 2ms
+drawGeometry() 1ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 8ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 6ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 8ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 2ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 8ms
+matrix&sky 2ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 7ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 9ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 2ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 7ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 7ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 3ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 8ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 8ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 7ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 16ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 8ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 8ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 5ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 6ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 6ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 7ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 1ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 3ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 5ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 0ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
+mapShadows() 4ms
+matrix&sky 1ms
+drawGeometry() 2ms
+
